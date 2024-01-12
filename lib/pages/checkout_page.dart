@@ -74,11 +74,14 @@ class CheckoutPage extends StatelessWidget {
                                 ),
                                 Image.asset(
                                   "lib/images/3.png",
-                                  height: 150,
-                                  width: 150,
+                                  height: 130,
+                                  width: 130,
                                   fit: BoxFit.contain,
                                 ),
                               ],
+                            ),
+                            SizedBox(
+                              width: 10,
                             ),
                             Row(
                               children: [
@@ -122,6 +125,9 @@ class CheckoutPage extends StatelessWidget {
                                     ],
                                   ),
                                 ),
+                                SizedBox(
+                                  width: 10,
+                                ),
                                 Icon(
                                   Icons.delete,
                                   color: Color(0xff725c3f),
@@ -164,11 +170,14 @@ class CheckoutPage extends StatelessWidget {
                                 ),
                                 Image.asset(
                                   "lib/images/9.png",
-                                  height: 150,
-                                  width: 150,
+                                  height: 130,
+                                  width: 130,
                                   fit: BoxFit.contain,
                                 ),
                               ],
+                            ),
+                            SizedBox(
+                              width: 10,
                             ),
                             Row(
                               children: [
@@ -254,11 +263,14 @@ class CheckoutPage extends StatelessWidget {
                                 ),
                                 Image.asset(
                                   "lib/images/12.png",
-                                  height: 150,
-                                  width: 150,
+                                  height: 130,
+                                  width: 130,
                                   fit: BoxFit.contain,
                                 ),
                               ],
+                            ),
+                            SizedBox(
+                              width: 10,
                             ),
                             Row(
                               children: [

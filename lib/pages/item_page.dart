@@ -61,7 +61,7 @@ class ItemPage extends StatelessWidget {
                       ),
                     ),
                     Image.asset(
-                      "lib/images/5.png",
+                      "lib/images/1.png",
                       height: 350,
                       width: 350,
                       fit: BoxFit.contain,
@@ -96,7 +96,7 @@ class ItemPage extends StatelessWidget {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
                             Text(
-                              "Cinamoroll Doll",
+                              "Teddy Bear",
                               // textAlign: TextAlign.start,
                               style: TextStyle(
                                 fontSize: 24,
@@ -105,7 +105,7 @@ class ItemPage extends StatelessWidget {
                               ),
                             ),
                             Text(
-                              "100.000",
+                              "50.000",
                               style: TextStyle(
                                   fontSize: 20,
                                   fontWeight: FontWeight.bold,
